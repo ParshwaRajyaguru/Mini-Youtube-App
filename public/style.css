@@ -1,0 +1,26 @@
+.myStyle {
+    color: #FF4500;
+    font-weight: 700
+}
+
+.search-bar {
+    margin: 15px;
+    text-align: center;
+}
+.search-bar input {
+    width: 75%
+}
+
+
+.video-detail .detail {
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #DCDCDC;
+}
